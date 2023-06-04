@@ -9,8 +9,6 @@ This is repo for the __Striver SDE Sheet Challenge__ This GitHub repository is d
 - Codes will be organized folder wise
 - Started On : 02-Jun, 2023 05:30 AM
 - Ends On : 31-Jul, 2023 05:30 AM
- 
-https://user-images.githubusercontent.com/113803002/243184819-ec7f51a3-e729-453b-8338-c1e2d0854134.jpg
 
 # Striver's Video Link:
 https://youtu.be/_2iQOQiCzOM
