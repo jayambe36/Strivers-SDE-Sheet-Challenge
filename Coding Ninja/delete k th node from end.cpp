@@ -1,3 +1,30 @@
+
+
+Node* removeKthNode(Node* head, int K)    // function to remove Kth node from Linked list
+{
+    Node *dummy = new Node(-1) ;    // Initialize dummy node
+
+    dummy -> next = head ;    // Link the dummy node with head
+
+    Node *fast = dummy ;  Node *slow = dummy ;    // Initialize fast and slow pointers
+
+    for(int i = 1 ; i <= K ; i++)  fast = fast -> next ;    // Increment fast pointer K times
+
+    while(fast -> next != NULL)    // loop till fast pointer reaches end of linked list
+    {
+        slow = slow -> next ;    // Increment slow pointer
+
+        fast = fast -> next ;    // Increment fast pointer
+    }
+
+    slow -> next = slow -> next -> next ;    // Remove Kth node
+
+    return dummy -> next ;    // Return the head of the linked list
+
+}
+
+========================
+
 // LeetCode Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 // ------------------------------------------------------------------------
 
@@ -36,29 +63,28 @@ public:
 };
 */
 
-Node* removeKthNode(Node* head, int K)    // function to remove Kth node from Linked list
+Node* removeKthNode(Node* head, int K)
 {
-    Node *dummy = new Node(-1) ;    // Initialize dummy node
+    Node *dummy = new Node(-1) ;
 
-    dummy -> next = head ;    // Link the dummy node with head
+    dummy -> next = head ;
 
-    Node *fast = dummy ;  Node *slow = dummy ;    // Initialize fast and slow pointers
+    Node *fast = dummy ;  Node *slow = dummy ;
 
-    for(int i = 1 ; i <= K ; i++)  fast = fast -> next ;    // Increment fast pointer K times
+    for(int i = 1 ; i <= K ; i++)  fast = fast -> next ;
 
-    while(fast -> next != NULL)    // loop till fast pointer reaches end of linked list
+    while(fast -> next != NULL)
     {
-        slow = slow -> next ;    // Increment slow pointer
+        slow = slow -> next ;
 
-        fast = fast -> next ;    // Increment fast pointer
+        fast = fast -> next ;
     }
 
-    slow -> next = slow -> next -> next ;    // Remove Kth node
+    slow -> next = slow -> next -> next ;
 
-    return dummy -> next ;    // Return the head of the linked list
+    return dummy -> next ;
 
 }
-
 
 // Time Complexity:  O(N)
 // Space Complexity: O(1)
