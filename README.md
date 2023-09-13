@@ -30,3 +30,4 @@ https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge
 - LINKEDIN -> https://www.linkedin.com/in/jayambe/
 - INSTAGRAM -> https://www.instagram.com/dsa.build/
 - YOUTUBE CHANNEL -> https://www.youtube.com/channel/UCqb4iR2fqzl6xmWnkBZAuBA
+- Discord id -> https://discord.com/users/794642462689722369
