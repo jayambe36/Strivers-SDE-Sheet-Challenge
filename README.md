@@ -23,6 +23,8 @@ https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge
 - Code Ninjas/Studio Link -> https://www.codingninjas.com/codestudio/profile/jayambe36
 - CHESS -> https://www.chess.com/stats/overview/jayambe36/0?
 - GFG -> https://auth.geeksforgeeks.org/user/jayambe36
+- CodeChef -> https://www.codechef.com/users/jayambe7
+- CodeForces -> https://codeforces.com/profile/jayambe36
 - HACKERRANK -> https://www.hackerrank.com/jayambe36
 - KAGGLE -> https://www.kaggle.com/jayambe36
 - GITHUB -> https://github.com/jayambe36/
