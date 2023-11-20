@@ -28,6 +28,6 @@ https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge
 - GITHUB -> https://github.com/jayambe36/
 - WEBSITE -> https://jayambe36.github.io/
 - LINKEDIN -> https://www.linkedin.com/in/jayambe/
-- INSTAGRAM -> https://www.instagram.com/dsa.build/
+- INSTAGRAM -> https://www.instagram.com/blackrockfinance/
 - YOUTUBE CHANNEL -> https://www.youtube.com/channel/UCqb4iR2fqzl6xmWnkBZAuBA
 - Discord id -> https://discord.com/users/794642462689722369
